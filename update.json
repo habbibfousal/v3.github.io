@@ -1,6 +1,6 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "url": "https://habbibfousal.github.io/v3.github.io/latest.exe",
     "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdC9ra1ZHb3k0RklCYVd4REROa3hBNUpZWmxDSHhWR1Z0Mi9BM2lGU3kvcDdrdC9GRFVHMDhaMW9GUXFVR0EzelkrK1VtckpIR21UMHF3Q0p4SmtpMWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ1MDQ4NTc0CWZpbGU6Q2xpZW50IEFsbCBJbiBPbmVfMC4xLjBfeDY0LXNldHVwLmV4ZQplbWphSHZWN0g5OGVZZHBZVnJWYkZjU1g3Z1IrU2tzcVRWdTM5eE1lOFFaTUlVcjVNSGNXb2tBWktZTG5SQTRlUUQxaDJOSVdnMjZaYmlMeXVCVS9EUT09Cg==",
-    "notes": "有新版本可用，点击立即进行更新"
+    "notes": "调整组件生成逻辑"
 }
