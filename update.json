@@ -1,9 +1,9 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "platforms":{
         "windows-x86_64": {
             "url": "https://habbibfousal.github.io/v3.github.io/latest.exe",
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdDR6TmNGeUowVW01Q2lHN3VwK2ovd1lKV3hJZ2lkSjV4SjMyTjN4VllLRkFRZjlRZUQ2OE1WcnRxK2JPellvWk0zTDkwTlRmWms5c2U1VURqSUZ5VVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ1MDcwODYwCWZpbGU6Q2xpZW50QWxsSW5PbmVfMC4wLjBfeDY0LXNldHVwLmV4ZQpqRitjSmxHdFp3Y0RWV3JyTnhQS3ZxWkRGaGl6cjQwSDBIcVF3YUhnLzIrbk51THA1Rm1vejM2RzFockQzTUsyNGhxSzV1SDdFR1pwTG9mb3lqRWVCQT09Cg=="
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdC9yTFp4YTJFNEFqaDkxQUNEZlNFZWVNcDd0alhnUFQyOEFPRVpIREVzY2dyQ0cxTEdBbUFzd3lGS0xJR3Y1N0tjVk5xb0JuUmlJZ25VQWRFZ3poeFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ1MDczMjM5CWZpbGU6Q2xpZW50QWxsSW5PbmVfMC4xLjFfeDY0LXNldHVwLmV4ZQpLalVYQ3ovYzJaQkVoeFVsZTBTVG52NEpSbTZTcVU1QThDTXZNZmwvOVozTFBJaXFUdlUydGpDUmRiYmJzbHA1Um5qTjc1L3dhOHJXVTUyOWVlZVhDZz09Cg=="
         }
     },
     "notes": "调整组件生成逻辑"
