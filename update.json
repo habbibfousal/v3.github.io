@@ -3,8 +3,8 @@
     "platforms":{
         "windows-x86_64": {
             "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.1.2_x64-setup.exe",
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdDA3OTVxYzRhcWVDZXR1WjlDUmtLcnJCQUVKSS8vUXBxenA5dzhSUkJ3Ujc0d3lQVldPQyt5WUNQVjNKY25Rcy9JcGovWWtHeWMxNXFBNWN1alVkNGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ1MTEzMjI5CWZpbGU6Q2xpZW50QWxsSW5PbmVfMC4xLjJfeDY0LXNldHVwLmV4ZQpYbnhCKzNzYXFRdHJ0TnRaeHhVZzFJNGdxQmROTkNQeTZMeWxnVENGWTBibVFZQXNLYXgxVGlGaVJ3MndiaTY0WitsL3Y4ZkNGZGsyMEVrWWltVE5DUT09Cg=="
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdHhWT01GU3hOaXdhc2NoaXExYmxhb1B1YmYyTGlRMUIrc1UrWFg0bUJ1WGUwYVhqRG9zZFRMWGN4dS9IYjZZVUFkM1dMRCsvbUdnYUphR0JLSktDeEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ1MTEzODc5CWZpbGU6Q2xpZW50QWxsSW5PbmVfMC4xLjJfeDY0LXNldHVwLmV4ZQo1MTF4aFhielg0WGpVV2o1MFV3aG0vTGZpQ2V2SFVxaTFnVVpHczR6eTZuRlplQ29RejRvVFhETlRzV25zdGJtN0VWdnMxYTlWaG85MU13LzI4RkNBUT09Cg=="
         }
     },
-    "notes": "调整组件生成逻辑"
+    "notes": "增加部分地方的操作反馈"
 }
