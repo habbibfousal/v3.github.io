@@ -2,8 +2,8 @@
     "version": "0.1.1",
     "platforms":{
         "windows-x86_64": {
-            "url": "https://habbibfousal.github.io/v3.github.io/latest.exe",
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdDJCNzJiN2RTM1ppbGxEbVlQRUpEenVGUlJNc1FETGoxKzVrVUFpdDJTcUxMdWp3RTQ3S0MwR1NYNUljUXp5MXowUEZ6SUZ0Zk5VakQyNkt1c0RxNkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ1MTA4ODgwCWZpbGU6Q2xpZW50QWxsSW5PbmVfMC4xLjFfeDY0LXNldHVwLmV4ZQpNazFPNFJEWnlRSkd1dXZadjNoN2RSbXh1NW1HcGpZS0dmRW1HL3ZYVmlyVUpXMEZQZ0M5cXFIYlFyOTdhZGcxbTFwQXRITzhjaE1YQk9rVXFkSjREZz09Cg=="
+            "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.1.2_x64-setup.exe",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdDA3OTVxYzRhcWVDZXR1WjlDUmtLcnJCQUVKSS8vUXBxenA5dzhSUkJ3Ujc0d3lQVldPQyt5WUNQVjNKY25Rcy9JcGovWWtHeWMxNXFBNWN1alVkNGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ1MTEzMjI5CWZpbGU6Q2xpZW50QWxsSW5PbmVfMC4xLjJfeDY0LXNldHVwLmV4ZQpYbnhCKzNzYXFRdHJ0TnRaeHhVZzFJNGdxQmROTkNQeTZMeWxnVENGWTBibVFZQXNLYXgxVGlGaVJ3MndiaTY0WitsL3Y4ZkNGZGsyMEVrWWltVE5DUT09Cg=="
         }
     },
     "notes": "调整组件生成逻辑"
