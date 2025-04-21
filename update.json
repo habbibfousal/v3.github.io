@@ -2,9 +2,9 @@
     "version": "0.1.3",
     "platforms":{
         "windows-x86_64": {
-            "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.1.3_x64-setup.exe",
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdCswSk1rbWVQQ1E1UURtU0c4V0Z0RGFHV1AvV3ZZaFFndHpEVnFROVg0TTE4akJwWGxUTVB2eU1EQSs4WVNrNTRJNFlmUVlKMnhVUzJMS2RUbEhxUmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ1MTU5NzYxCWZpbGU6Q2xpZW50QWxsSW5PbmVfMC4xLjNfeDY0LXNldHVwLmV4ZQozZGFLSHh2R1o2S2RRNGJWWVhlR3g2c0o4Y0RXMUFuSHprZDBNSjNMTWFPVVN5U3hDS0Z2b0YwcTNZWkhpTngwMU1tRDVkZEx2SzM3VGZyY2xwUk1Ddz09Cg=="
+            "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.1.4_x64-setup.exe",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdHlveTh3bXpMTVoxaFg2ODkrbFp1QVIwQ3U1RVMrQXYwamFDYzQxWDV0ZmZvSVMzQld2UTJXOE01dUpOVDE0OGhQZHJERmw1bEVodDBiZm42eFZKUUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ1MjQyNjA1CWZpbGU6Q2xpZW50QWxsSW5PbmVfMC4xLjRfeDY0LXNldHVwLmV4ZQprTS9oSU5RMFJCMmI5L2M1SFVjYmQvK3ZNSkNHQkl2SjI2YjJHR2xtZlh2ck4rWkU1UmFQL1ZtV3pKTG9zSVh5KzJQYXZwN3RKMlNETW1PWGdFZCtCUT09Cg=="
         }
     },
-    "notes": "语音播报可用了，设置->实时设置 设置推送时机"
+    "notes": "调整语音播报逻辑，修复了 0 无法播报的 问题，现在进站播报不会播报编号了，只有在前台提交时候会播放编号，另外，现在可以在设置里自行选择客户端排序模式了，旧版的站点的转换将在这两天上线"
 }
