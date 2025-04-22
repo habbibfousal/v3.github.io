@@ -1,10 +1,10 @@
 {
-    "version": "0.1.4",
+    "version": "0.1.5",
     "platforms":{
         "windows-x86_64": {
             "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.1.4_x64-setup.exe",
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdHlveTh3bXpMTVoxaFg2ODkrbFp1QVIwQ3U1RVMrQXYwamFDYzQxWDV0ZmZvSVMzQld2UTJXOE01dUpOVDE0OGhQZHJERmw1bEVodDBiZm42eFZKUUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ1MjQyNjA1CWZpbGU6Q2xpZW50QWxsSW5PbmVfMC4xLjRfeDY0LXNldHVwLmV4ZQprTS9oSU5RMFJCMmI5L2M1SFVjYmQvK3ZNSkNHQkl2SjI2YjJHR2xtZlh2ck4rWkU1UmFQL1ZtV3pKTG9zSVh5KzJQYXZwN3RKMlNETW1PWGdFZCtCUT09Cg=="
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdHhvVDBLZGpJNlVSeGwzVk5YdjNKZjZRMVUwbjdmNS8wU01CTUttNmtYVlVJV3dFNUEvRDJmdWJDTGg1emxNa2VSeDRyZDhNMFNFN2tERlYxWDNvQ2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ1MzIzMzE0CWZpbGU6Q2xpZW50QWxsSW5PbmVfMC4xLjVfeDY0LXNldHVwLmV4ZQpMUFhaeXhmbUNSWEJack4zMnc0YzkzdWpCbm4yaDFqMXJnWUJkRVNaN2xuRDR6SlBYbXUzeWZXcTlNUS9kQkVLQkJCRWFjRVpNMVNhVkxKU0JlaVRCUT09Cg=="
         }
     },
-    "notes": "调整语音播报逻辑，修复了 0 无法播报的 问题，现在进站播报不会播报编号了，只有在前台提交时候会播放编号，另外，现在可以在设置里自行选择客户端排序模式了，旧版的站点的转换将在这两天上线"
+    "notes": "现在支持下载内置站点了，同时，你也可以转换自己的旧版站点到新版"
 }
