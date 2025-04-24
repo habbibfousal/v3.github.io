@@ -1,10 +1,10 @@
 {
-    "version": "0.1.5",
+    "version": "0.1.6",
     "platforms":{
         "windows-x86_64": {
-            "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.1.5_x64-setup.exe",
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdHhvVDBLZGpJNlVSeGwzVk5YdjNKZjZRMVUwbjdmNS8wU01CTUttNmtYVlVJV3dFNUEvRDJmdWJDTGg1emxNa2VSeDRyZDhNMFNFN2tERlYxWDNvQ2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ1MzIzMzE0CWZpbGU6Q2xpZW50QWxsSW5PbmVfMC4xLjVfeDY0LXNldHVwLmV4ZQpMUFhaeXhmbUNSWEJack4zMnc0YzkzdWpCbm4yaDFqMXJnWUJkRVNaN2xuRDR6SlBYbXUzeWZXcTlNUS9kQkVLQkJCRWFjRVpNMVNhVkxKU0JlaVRCUT09Cg=="
+            "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.1.6_x64-setup.exe",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdDd0aGx1RFNrUVdOYk1ST244eHRZRkU2a0J1V2xYRE1GeTBZTlYxMmZib0syUkxhMWhUNDFHWVpHWVZZempVcVJDY1NaUEdyc0VVY3JyL3UvQUdnNEFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ1NTA5NTg2CWZpbGU6Q2xpZW50QWxsSW5PbmVfMC4xLjZfeDY0LXNldHVwLmV4ZQoxNWNkSXEyYVNkUUVwMjJocUU5K1RCbzVKaFhyaTV4ZnRDZExlbkR0bjJ2alY3ZmFqeEtaMDc4MXVqWE5uTmdNYldEWmM5RlFMTk4wSFp5YTZtam9Bdz09Cg=="
         }
     },
-    "notes": "现在支持下载内置站点了，同时，你也可以转换自己的旧版站点到新版"
+    "notes": "API同步，为周末的更新做预留"
 }
