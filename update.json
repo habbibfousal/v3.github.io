@@ -1,12 +1,10 @@
 {
-    "version": "0.1.7",
+    "version": "0.1.8",
     "platforms":{
         "windows-x86_64": {
-            "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.1.7_x64-setup.exe",
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdDIreWpaejJ3dFdROUdFK1ZyTHZYMzdsYUdlcjc0SjZ4bWlDb0M3SHNiZU1QRCtRSHFIamhyKzlqczBzU2pVVCszTkFDSUxBdGVyd0dHK2ZRMlVqVWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ1NjQzOTcwCWZpbGU6Q2xpZW50QWxsSW5PbmVfMC4xLjdfeDY0LXNldHVwLmV4ZQp4UUNEQllFdUJkekI0dEJPKzhJV2h2aWkybm5KNXc2NVVoa0UwTnZlMmFtMmJpUXlNeUYzWnBCSXZZWjE3RXdqTzNNdnN6NTdocGZkZ1RPa2Q1RVVEdz09Cg=="
+            "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.1.8_x64-setup.exe",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdDl0bE54M2ZmNllxRVR1RERRWGxVelEweGgyandXazk5Ylk5Ky9WOUNLQTBianpTVms0bGNrQUN5WlJ1UnNveHZqaDFReWFqTW5ISUQ4R1ZLRy9sVHdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ1NjU3OTU3CWZpbGU6Q2xpZW50QWxsSW5PbmVfMC4xLjhfeDY0LXNldHVwLmV4ZQpETWVvRXNLaHlHUi9pTFNWcTJ4Q0I3aUsrVlBwWjYzNVZmblE2WEtidzd2d040dk9UZW5DWmxpSFE4RGMza1R5c0N4bUQ0ZWZ2Y0c2RG9HdUUwUEdDdz09Cg=="
         }
     },
-    "notes": "1、修复僵尸在线的问题.
-              2、黑白名单逻辑调整，规则外的卡片将无法提交，可以自由决定是否自定义自动拒绝卡片的回复：右上角设置->实时数据设置
-              3、今日填卡数逻辑调整"
+    "notes": "修复僵尸在线的问题.黑白名单逻辑调整，规则外的卡片将无法提交，可以自由决定是否自定义自动拒绝卡片的回复：右上角设置->实时数据设置3.今日填卡数逻辑调整"
 }
