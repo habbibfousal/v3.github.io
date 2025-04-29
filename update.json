@@ -1,10 +1,10 @@
 {
-    "version": "0.1.9",
+    "version": "0.2.0",
     "platforms":{
         "windows-x86_64": {
-            "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.1.9_x64-setup.exe",
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdHlwTy93aDBzTlc2dEtMSVQrVXJjaGZ4RXNGTXY4M3haVEQwQURILzJFdTQxaXhBMFYzc1h5Z2tQQ1BaQXJVaXoxTmRkZmdlRHBFOUp0WHhVRFZpSEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ1ODQyMTEyCWZpbGU6Q2xpZW50QWxsSW5PbmVfMC4xLjlfeDY0LXNldHVwLmV4ZQpURzZHbzVhelRvc2lQZGFSQ0lyNG9nYU5SSVJWZ0t0MmE5cTdGU3BjY3VjZDU5SmgxczZ6OUdMWWUweFJHTjUyblYvekdwTUxvc2cvOGozRGd6bHdBQT09Cg=="
+            "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.2.0_x64-setup.exe",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdHpHajRibXJkeE01QkY5RS92eGVKYStXa212NHB4ZFpEQlFzRGNKL1pkWHk5cGo1RVozY2lsRkJFanZjRU50WW5wN09XWXRTNmlhNHBITzdrN1pjdlFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ1OTEwMzIzCWZpbGU6Q2xpZW50QWxsSW5PbmVfMC4yLjBfeDY0LXNldHVwLmV4ZQpacWoyRXpvZXJWS3phVTJlNTBpRkMrZ0Y0bHVIOE15NlBnYzRoNjRlNlhra0xHR1hlQ0ZudW9pMm95a2hyY1d0NUgxNVQzTHFWSVpMTTFrVEJ2eUNEZz09Cg=="
         }
     },
-    "notes": "取消强制更新，后续的更新将在右上角可见；调整卡片UI"
+    "notes": "自动清理爬虫在线。现在，可以部署网页版了"
 }
