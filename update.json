@@ -6,5 +6,5 @@
             "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdHpHajRibXJkeE01QkY5RS92eGVKYStXa212NHB4ZFpEQlFzRGNKL1pkWHk5cGo1RVozY2lsRkJFanZjRU50WW5wN09XWXRTNmlhNHBITzdrN1pjdlFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ1OTEwMzIzCWZpbGU6Q2xpZW50QWxsSW5PbmVfMC4yLjBfeDY0LXNldHVwLmV4ZQpacWoyRXpvZXJWS3phVTJlNTBpRkMrZ0Y0bHVIOE15NlBnYzRoNjRlNlhra0xHR1hlQ0ZudW9pMm95a2hyY1d0NUgxNVQzTHFWSVpMTTFrVEJ2eUNEZz09Cg=="
         }
     },
-    "notes": "自动清理爬虫在线。现在，可以部署网页版了"
+    "notes": "自动清理爬虫在线。现在，可以部署网页版了，对于自己部署服务器的情况，请在/home/ubuntu下执行 sudo sh hot-update,下一次更新系统将自动完成"
 }
