@@ -1,10 +1,10 @@
 {
-    "version": "0.2.0",
+    "version": "0.2.1",
     "platforms":{
         "windows-x86_64": {
-            "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.2.0_x64-setup.exe",
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdDJxQWhDOWM1OUJKekFNd1FHSXpiQzIzQWlLTUhWaVNBMlhwbnc0RXhTcWVDV3pDMlR0MmdjcVUzclVmZFpYS3VFQXhSSGZvTGxLemw5blI2Y0U5YkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ2MDIxNTIzCWZpbGU6Q2xpZW50QWxsSW5PbmVfMC4yLjBfeDY0LXNldHVwLmV4ZQo3MFlSSjgwV1ZhWlZVV2RvN1RpdWhxWHdnWXhWUGV4bnR2R0NVR2ZEYmZKdjUxRDFxWVh5c255T003YWdOTkwzcHBpOW9zK3E0SEtyWHBNZTg3cm5BQT09Cg=="
+            "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.2.1_x64-setup.exe",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdC9vc0JWMUpwRGNCNTVqMHdodzcwK2xOdUVEVCtNSTJHMDkyWFJPbmltV1RTUk96MndjanVYS1d5R2s2Rzg5QThFTVVwajZYNWRiM3lYeG5CbVVnL1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ2MjQxODQ3CWZpbGU6Q2xpZW50QWxsSW5PbmVfMC4yLjFfeDY0LXNldHVwLmV4ZQo2L2g4MDNyQWdYNVNIelRuaTM1ak9rZkcyenppd0luVlg0Wkc0T2M4MTQzcFpUakQyaHNKZDQyTkpKS05FSTVWazU4eTIxWncrTCtQMTl2S2ZpQ0VDdz09Cg=="
         }
     },
-    "notes": "自动清理爬虫在线。现在，可以部署网页版了，对于自己部署服务器的情况，请在/home/ubuntu下执行 sudo sh hot-update,下一次更新系统将自动完成"
+    "notes": "紧急修复，站点超出10个无法翻页"
 }
