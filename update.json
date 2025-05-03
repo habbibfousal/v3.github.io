@@ -6,5 +6,5 @@
             "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdDdSRWFZLy9EOGtTMlRUMWR4UHJuVXVBQy9WaXZOaUxCbFlsZFhPVk1pVzhrdDFRdWFNUGZoMDM0aWliL0wrYkZmeFF4ZmJIMWRXR3NOTnpqMGlxVndFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ2MjgyNzA1CWZpbGU6Q2xpZW50QWxsSW5PbmVfMC4yLjJfeDY0LXNldHVwLmV4ZQprTjJMVXpaS1NEeEJTOUlDU0JQUEVaY2szcm11TU1CdHZzZ2RhVm5kMHFkQUk5NHhYRElzNWFGKzhwNFFiQnRHNi9ycUlMODJKaWxnZ1M1YVNiVVRDdz09Cg=="
         }
     },
-    "notes": "修复实时数据仅填卡过滤错误，调整实时数据的常用项逻辑为站点同步，而不是单个客户端。数据支持删除，该操作会被记录"
+    "notes": "修复实时数据仅填卡过滤错误，调整实时数据的常用项逻辑为站点同步，而不是单个客户端。数据支持删除，该操作会被记录，如果功能没同步，请单击更新服务器重新更新，这不会导致错误，另外，网页版将同步更新"
 }
