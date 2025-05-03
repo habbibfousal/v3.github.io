@@ -1,10 +1,10 @@
 {
-    "version": "0.2.1",
+    "version": "0.2.2",
     "platforms":{
         "windows-x86_64": {
-            "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.2.1_x64-setup.exe",
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdC9vc0JWMUpwRGNCNTVqMHdodzcwK2xOdUVEVCtNSTJHMDkyWFJPbmltV1RTUk96MndjanVYS1d5R2s2Rzg5QThFTVVwajZYNWRiM3lYeG5CbVVnL1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ2MjQxODQ3CWZpbGU6Q2xpZW50QWxsSW5PbmVfMC4yLjFfeDY0LXNldHVwLmV4ZQo2L2g4MDNyQWdYNVNIelRuaTM1ak9rZkcyenppd0luVlg0Wkc0T2M4MTQzcFpUakQyaHNKZDQyTkpKS05FSTVWazU4eTIxWncrTCtQMTl2S2ZpQ0VDdz09Cg=="
+            "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.2.2_x64-setup.exe",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdDdSRWFZLy9EOGtTMlRUMWR4UHJuVXVBQy9WaXZOaUxCbFlsZFhPVk1pVzhrdDFRdWFNUGZoMDM0aWliL0wrYkZmeFF4ZmJIMWRXR3NOTnpqMGlxVndFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ2MjgyNzA1CWZpbGU6Q2xpZW50QWxsSW5PbmVfMC4yLjJfeDY0LXNldHVwLmV4ZQprTjJMVXpaS1NEeEJTOUlDU0JQUEVaY2szcm11TU1CdHZzZ2RhVm5kMHFkQUk5NHhYRElzNWFGKzhwNFFiQnRHNi9ycUlMODJKaWxnZ1M1YVNiVVRDdz09Cg=="
         }
     },
-    "notes": "紧急修复，站点超出10个无法翻页"
+    "notes": "修复实时数据仅填卡过滤错误，调整实时数据的常用项逻辑为站点同步，而不是单个客户端。数据支持删除，该操作会被记录"
 }
