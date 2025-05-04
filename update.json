@@ -6,5 +6,5 @@
             "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdDFyOWFENmZqV3ROWTFrRStvL2QzNEpSVGVETTNiVjZjUHJTUHJ4MVVTay9mN0xnaWJuMnJlMXhBQ1BDSWF0UFZqSnlWV0ZlanNoSkNLMjNEWGRnbndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ2MzQwNjY5CWZpbGU6Q2xpZW50QWxsSW5PbmVfMC4yLjNfeDY0LXNldHVwLmV4ZQpZbEV4RUVyTmF3NDA2YmJIcStZWnBQSTZvWktkYUVZeldJTm1pRmtRQ3ZNWVdoT3luZHd6bkZ0eFhXRmJsVXBmek1jK0ZBdFh4ZFEzWFRObS9aLzJCQT09Cg=="
         }
     },
-    "notes": "1.修复网页版无法复制的问题。2.修复数据回收后，客户端重新进入网站旧数据丢失问题。3.开放编辑器API，现在，你可以使用api实现更加灵活的操作。4.支持项目自动翻译"
+    "notes": "1.修复网页版无法复制的问题。2.修复数据回收后，客户端重新进入网站旧数据丢失问题。3.开放编辑器API，现在，你可以使用api实现更加灵活的操作。4.支持项目自动翻译。5.添加新的事件触发选项。6.调整部分模板。7.修复部分情况下，自动生成完成后，不进入页面的问题"
 }
