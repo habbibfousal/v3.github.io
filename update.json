@@ -1,10 +1,10 @@
 {
-    "version": "0.2.5",
+    "version": "0.2.6",
     "platforms":{
         "windows-x86_64": {
-            "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.2.5_x64-setup.exe",
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdDlLN0lMWTNtbE0xaEVjOThocURsdkh1UzllZFZYZk95OFJBcUhURXEzazNrRmRjUHhTaDZpMjlIc0x6N2gwSnlIQVE3dFdacVRjQndKUzF5dlQvRmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ2NDM1MzIyCWZpbGU6Q2xpZW50QWxsSW5PbmVfMC4yLjVfeDY0LXNldHVwLmV4ZQoya2QzdXNwdDF1ZkRrSFY3L21lUnFoM1FSMjhIci9GR0txSUpWZVo4d25Gd1U5RzVGVnhPYTVZaG05WjMxVS9xWXQrektxQnhQTlBlRmYwYTNiM01BZz09Cg=="
+            "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.2.6_x64-setup.exe",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdDJVeEt1RmRVMmh3WGl1V1kxRVdvWFAyRXBuc0ZjT2xBV3VxY1RhaEs5NklYOEs2SWN3bUFVRHpjdU54SWxCRndWd1VFZDRBNjVMRy9zV0VEQ1F0YVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ2NDM3NjAyCWZpbGU6Q2xpZW50QWxsSW5PbmVfMC4yLjZfeDY0LXNldHVwLmV4ZQp3R2toY05LVHkva05HSDE4L2pzRjBrbXR1UUhaNnJrbnNuZmk5UjlwcURjVEFCcTVtd0U2R21MaTdDUmRWaEhKSUpXbGVlRDFKR1EwTUNJaVNHaEVBdz09Cg=="
         }
     },
-    "notes": "修复页面跳转url的问题，修复长度限制不生效的问题.现在可以自定义Loading UI了"
+    "notes": "【紧急修复】在CPU繁忙时导致可能的累加错误导致删除页面时候会导致整个项目被删除"
 }
