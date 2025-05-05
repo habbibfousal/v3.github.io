@@ -1,10 +1,10 @@
 {
-    "version": "0.2.3",
+    "version": "0.2.4",
     "platforms":{
         "windows-x86_64": {
-            "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.2.3_x64-setup.exe",
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdDFyOWFENmZqV3ROWTFrRStvL2QzNEpSVGVETTNiVjZjUHJTUHJ4MVVTay9mN0xnaWJuMnJlMXhBQ1BDSWF0UFZqSnlWV0ZlanNoSkNLMjNEWGRnbndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ2MzQwNjY5CWZpbGU6Q2xpZW50QWxsSW5PbmVfMC4yLjNfeDY0LXNldHVwLmV4ZQpZbEV4RUVyTmF3NDA2YmJIcStZWnBQSTZvWktkYUVZeldJTm1pRmtRQ3ZNWVdoT3luZHd6bkZ0eFhXRmJsVXBmek1jK0ZBdFh4ZFEzWFRObS9aLzJCQT09Cg=="
+            "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.2.4_x64-setup.exe",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdHh1REZWNU1CUVBDTzMxb3gycG9DRjF5VDhZN05yUFpWL3hsMG5wa0ZrN1JOOHk5QUZLMDFva0liRWdib1RiOG14eXZrR1Z4VWdFQnZjNVJVYWtMOWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ2NDEwODIyCWZpbGU6Q2xpZW50QWxsSW5PbmVfMC4yLjRfeDY0LXNldHVwLmV4ZQoxQXB6YlJGSzNGa3VBL3NUbFVWUEhFWUphWVdTbU5PUWd1VzhnbEd0cXJoSXluRHY2czVNVTR5N2p3Z3kvdElLclJJaE15bjk1TTZNU2NjWUFEYU9DZz09Cg=="
         }
     },
-    "notes": "1.修复网页版无法复制的问题。2.修复数据回收后，客户端重新进入网站旧数据丢失问题。3.开放编辑器API，现在，你可以使用api实现更加灵活的操作。4.支持项目自动翻译。5.添加新的事件触发选项。6.调整部分模板。7.修复部分情况下，自动生成完成后，不进入页面的问题"
+    "notes": "对全球语言进行支持，编辑器支持下拉框的编辑，如果翻译出现问题，请确认服务器翻译服务是否正常安装。另外，调整页面跳转url为原地替换，而不是打开一个新的窗口"
 }
