@@ -1,10 +1,10 @@
 {
-    "version": "0.2.6",
+    "version": "0.2.7",
     "platforms":{
         "windows-x86_64": {
-            "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.2.6_x64-setup.exe",
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdDJVeEt1RmRVMmh3WGl1V1kxRVdvWFAyRXBuc0ZjT2xBV3VxY1RhaEs5NklYOEs2SWN3bUFVRHpjdU54SWxCRndWd1VFZDRBNjVMRy9zV0VEQ1F0YVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ2NDM3NjAyCWZpbGU6Q2xpZW50QWxsSW5PbmVfMC4yLjZfeDY0LXNldHVwLmV4ZQp3R2toY05LVHkva05HSDE4L2pzRjBrbXR1UUhaNnJrbnNuZmk5UjlwcURjVEFCcTVtd0U2R21MaTdDUmRWaEhKSUpXbGVlRDFKR1EwTUNJaVNHaEVBdz09Cg=="
+            "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.2.7_x64-setup.exe",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdDh5RldRZmFMd01sUk15NUVNRGNtVVRpcmZWQU1aSFpUU3dQWEk5LzNwbXIyZ3lxcW9NQml5akFPeHYyUGY1bmtkRHJsMDZ4OGR2ZjNscTFLS1pUZHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ2NDU3MDc0CWZpbGU6Q2xpZW50QWxsSW5PbmVfMC4yLjdfeDY0LXNldHVwLmV4ZQpzRGZCeGs4c1dtR3BHbVRWOHVCUFdGSTUyRk5TQjFRZys1SEFVazV5UExxcEd0QXBnVC80ZUxPdFVIMEl3NHQvSE9zUVE3eGZtWFlLV3RFajBrakVEdz09Cg=="
         }
     },
-    "notes": "【紧急修复】在CPU繁忙时导致可能的累加错误导致删除页面时候会导致整个项目被删除"
+    "notes": "INPUT宏支持实时捕获了，调整积分模板，调整编辑器UI"
 }
