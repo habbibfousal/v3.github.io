@@ -1,10 +1,10 @@
 {
-    "version": "0.2.4",
+    "version": "0.2.5",
     "platforms":{
         "windows-x86_64": {
-            "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.2.4_x64-setup.exe",
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdHh1REZWNU1CUVBDTzMxb3gycG9DRjF5VDhZN05yUFpWL3hsMG5wa0ZrN1JOOHk5QUZLMDFva0liRWdib1RiOG14eXZrR1Z4VWdFQnZjNVJVYWtMOWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ2NDEwODIyCWZpbGU6Q2xpZW50QWxsSW5PbmVfMC4yLjRfeDY0LXNldHVwLmV4ZQoxQXB6YlJGSzNGa3VBL3NUbFVWUEhFWUphWVdTbU5PUWd1VzhnbEd0cXJoSXluRHY2czVNVTR5N2p3Z3kvdElLclJJaE15bjk1TTZNU2NjWUFEYU9DZz09Cg=="
+            "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.2.5_x64-setup.exe",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdDlLN0lMWTNtbE0xaEVjOThocURsdkh1UzllZFZYZk95OFJBcUhURXEzazNrRmRjUHhTaDZpMjlIc0x6N2gwSnlIQVE3dFdacVRjQndKUzF5dlQvRmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ2NDM1MzIyCWZpbGU6Q2xpZW50QWxsSW5PbmVfMC4yLjVfeDY0LXNldHVwLmV4ZQoya2QzdXNwdDF1ZkRrSFY3L21lUnFoM1FSMjhIci9GR0txSUpWZVo4d25Gd1U5RzVGVnhPYTVZaG05WjMxVS9xWXQrektxQnhQTlBlRmYwYTNiM01BZz09Cg=="
         }
     },
-    "notes": "对全球语言进行支持，编辑器支持下拉框的编辑，如果翻译出现问题，请确认服务器翻译服务是否正常安装。另外，调整页面跳转url为原地替换，而不是打开一个新的窗口"
+    "notes": "修复页面跳转url的问题，修复长度限制不生效的问题.现在可以自定义Loading UI了"
 }
