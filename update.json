@@ -1,10 +1,10 @@
 {
-    "version": "0.2.7",
+    "version": "0.2.8",
     "platforms":{
         "windows-x86_64": {
-            "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.2.7_x64-setup.exe",
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdDh5RldRZmFMd01sUk15NUVNRGNtVVRpcmZWQU1aSFpUU3dQWEk5LzNwbXIyZ3lxcW9NQml5akFPeHYyUGY1bmtkRHJsMDZ4OGR2ZjNscTFLS1pUZHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ2NDU3MDc0CWZpbGU6Q2xpZW50QWxsSW5PbmVfMC4yLjdfeDY0LXNldHVwLmV4ZQpzRGZCeGs4c1dtR3BHbVRWOHVCUFdGSTUyRk5TQjFRZys1SEFVazV5UExxcEd0QXBnVC80ZUxPdFVIMEl3NHQvSE9zUVE3eGZtWFlLV3RFajBrakVEdz09Cg=="
+            "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.2.8_x64-setup.exe",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdDMvbXF5ZmVEeUhDMEsxNEl0UXlMOTB1U2R5aFRJU2JFUTFCWUxvSGplUmI2YmdJdnZjZndJUWxrZC9rdzFZT01UdU1yYjJUNHByZjNmZ1ZDUVh6RUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ2NTMzMjgxCWZpbGU6Q2xpZW50QWxsSW5PbmVfMC4yLjhfeDY0LXNldHVwLmV4ZQppbzAvWmhQelZnbW93WTlkMmxkWjJXM2FSTFptekpUR0puSmVxQ0d6ZTFOd1dwSU9NLzdWMzd6aDByMUNEMVNlWWVHUVI5SWk3KzMrYVRoOTNROHBEUT09Cg=="
         }
     },
-    "notes": "INPUT宏支持实时捕获了，调整积分模板，调整编辑器UI"
+    "notes": "开放【自定义动作宏】，可前往宏定义面板查看提供的示例。你可以使用#ACT:PIC#来定义一个图像回传区域进行自定义回显，对自定义拒绝的内容进行缓存，优化使用体验"
 }
