@@ -1,10 +1,10 @@
 {
-    "version": "0.2.8",
+    "version": "0.2.9",
     "platforms":{
         "windows-x86_64": {
-            "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.2.8_x64-setup.exe",
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdDMvbXF5ZmVEeUhDMEsxNEl0UXlMOTB1U2R5aFRJU2JFUTFCWUxvSGplUmI2YmdJdnZjZndJUWxrZC9rdzFZT01UdU1yYjJUNHByZjNmZ1ZDUVh6RUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ2NTMzMjgxCWZpbGU6Q2xpZW50QWxsSW5PbmVfMC4yLjhfeDY0LXNldHVwLmV4ZQppbzAvWmhQelZnbW93WTlkMmxkWjJXM2FSTFptekpUR0puSmVxQ0d6ZTFOd1dwSU9NLzdWMzd6aDByMUNEMVNlWWVHUVI5SWk3KzMrYVRoOTNROHBEUT09Cg=="
+            "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.2.9_x64-setup.exe",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdDJoMGpUajZVTUhSemU3NTNyaHkwYVR6MzBwangxdjlRZHFHTXdQRlZHZWVRSzJ5Q1R4WnQzRzNuZ1h5dkJNcDFjWGJOMkRaRGUwTHc5dGpjbXlyM0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ2NTkyMjExCWZpbGU6Q2xpZW50QWxsSW5PbmVfMC4yLjlfeDY0LXNldHVwLmV4ZQppaUFwaWpZQlA3dUk1cUJSVlE1QmlkQzVDTGpINW1xaEp4cHVjd00vUGhSd0lMRHp0VzFpUkNRejdGZmphTTRZNmhIdXhZNXA5QjM4WGdwWEtTMnBDQT09Cg=="
         }
     },
-    "notes": "开放【自定义动作宏】，可前往宏定义面板查看提供的示例。你可以使用#ACT:PIC#来定义一个图像回传区域进行自定义回显，对自定义拒绝的内容进行缓存，优化使用体验"
+    "notes": "自定义动作支持同步了。新增自定义【自动】拒绝回复，数据支持批量删除了"
 }
