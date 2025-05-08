@@ -1,10 +1,10 @@
 {
-    "version": "0.2.9",
+    "version": "0.3.1",
     "platforms":{
         "windows-x86_64": {
-            "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.2.9_x64-setup.exe",
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdDJoMGpUajZVTUhSemU3NTNyaHkwYVR6MzBwangxdjlRZHFHTXdQRlZHZWVRSzJ5Q1R4WnQzRzNuZ1h5dkJNcDFjWGJOMkRaRGUwTHc5dGpjbXlyM0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ2NTkyMjExCWZpbGU6Q2xpZW50QWxsSW5PbmVfMC4yLjlfeDY0LXNldHVwLmV4ZQppaUFwaWpZQlA3dUk1cUJSVlE1QmlkQzVDTGpINW1xaEp4cHVjd00vUGhSd0lMRHp0VzFpUkNRejdGZmphTTRZNmhIdXhZNXA5QjM4WGdwWEtTMnBDQT09Cg=="
+            "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.3.1_x64-setup.exe",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdHhaS051MFlWTUVSME9UOW5ybVBuNkMyc3UyMWVzQWZobnllTmU4TDNVWGlGTFc5OWgvV01DSlRtSmwxZXhCWmYrV2QwS0UzQURHL1UzYWtWTTl2THdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ2NzAzMzcxCWZpbGU6Q2xpZW50QWxsSW5PbmVfMC4zLjFfeDY0LXNldHVwLmV4ZQpkTFJhY1ZmcDVoZktBU1hnMmpicGkxM1JYNHNMWnRFUUdPL0lEZzkvYTVrcEI2NzdZaDR3ZndtVlJDcStTOWhQTGEwTTVuNEhUazJsdGtWTkhIS3pBQT09Cg=="
         }
     },
-    "notes": "自定义动作支持同步了。新增自定义【自动】拒绝回复，数据支持批量删除了"
+    "notes": "添加了几个一些实用的 api 和宏，同时，#LOGO#会显示对应卡片的 LOGO，[api]info会在页面显示一个提示等，默认的跳转已经替换为不可返回"
 }
