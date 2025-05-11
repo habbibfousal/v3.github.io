@@ -1,10 +1,10 @@
 {
-    "version": "0.3.1",
+    "version": "0.3.2",
     "platforms":{
         "windows-x86_64": {
-            "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.3.1_x64-setup.exe",
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdHhaS051MFlWTUVSME9UOW5ybVBuNkMyc3UyMWVzQWZobnllTmU4TDNVWGlGTFc5OWgvV01DSlRtSmwxZXhCWmYrV2QwS0UzQURHL1UzYWtWTTl2THdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ2NzAzMzcxCWZpbGU6Q2xpZW50QWxsSW5PbmVfMC4zLjFfeDY0LXNldHVwLmV4ZQpkTFJhY1ZmcDVoZktBU1hnMmpicGkxM1JYNHNMWnRFUUdPL0lEZzkvYTVrcEI2NzdZaDR3ZndtVlJDcStTOWhQTGEwTTVuNEhUazJsdGtWTkhIS3pBQT09Cg=="
+            "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.3.2_x64-setup.exe",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdDNrb2ZSc2RYQlhQN2tyN2lkeFQ2cnArRVV0KzVwNEFUSEZpNXJrSElmclYxMFBzTEV2YnB1RVl4UG1NSFh6bXJQWFQ0bytZaGRQM3ZFemY0dU4yaHdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ2OTY4ODg3CWZpbGU6Q2xpZW50QWxsSW5PbmVfMC4zLjJfeDY0LXNldHVwLmV4ZQpNVWVPM21VdkRDZUdjNy9jK0tLRDVNUVVkMitKSFE4UFVWVWZVM0RCV2xxN3RMdXkrSEFFTllJSHZwZ20vcmU4WVZxaitGSDNZTzdxck4rQlZYc0dDZz09Cg=="
         }
     },
-    "notes": "添加了几个一些实用的 api 和宏，同时，#LOGO#会显示对应卡片的 LOGO，[api]info会在页面显示一个提示等，默认的跳转已经替换为不可返回"
+    "notes": "修复域名超过10条无法翻页，开放页面源代码编辑【需要安装vscode】"
 }
