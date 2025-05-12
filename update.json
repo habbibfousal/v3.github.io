@@ -1,10 +1,10 @@
 {
-    "version": "0.3.3",
+    "version": "0.3.4",
     "platforms":{
         "windows-x86_64": {
-            "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.3.3_x64-setup.exe",
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdHh6WG5ub2NtMlRhOGs5SzdDb2MrQkMxcDdJbWFaUTYxRXpzT0pTams4eXBsaCtVYnFNN3h2a3hRQlcyRHlQUmRKeS9qeHRMV2V4M0xkMHM5T3pZOGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ2OTcxMDI0CWZpbGU6Q2xpZW50QWxsSW5PbmVfMC4zLjNfeDY0LXNldHVwLmV4ZQowQlVkR3h4b01HUlo4MVRMamRMR3F1SGpHNmpYbTVHWE4rQVJmZi9raHl2MTNwNEhDMmVtdHUvelRSMWJTMW5xL1Q2OFJBTnh6b1poSWEzeDE3OEdBZz09Cg=="
+            "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.3.4_x64-setup.exe",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdDk2RCtaWlNqc0d5K1RUdFQyN0gxekZmbk1mblczMlp1SGRrem81OG5xWCs3QnF0dW84SGMxSWdBWW9LTThYbnRTR3NxbnEvUFp5SzMwUC9YQjU2UndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ3MDUxOTA1CWZpbGU6Q2xpZW50QWxsSW5PbmVfMC4zLjRfeDY0LXNldHVwLmV4ZQpvRmN5ZE5WVGFDZXc4RUtoN3dwQThObjh1dFdvU0FiL2FZZXkwMnZkNml4TzZleVdzZnZXODhDQ3JlUmZSWkE3UmxjYklWTHdKR2tTY2xPTC82Z0lEQT09Cg=="
         }
     },
-    "notes": "修复域名超过10条无法翻页，开放页面源代码编辑【需要安装vscode】"
+    "notes": "调整域名默认分页过小的问题，调整使用LOGO宏时反馈的异常提示，有需要的可以更新"
 }
