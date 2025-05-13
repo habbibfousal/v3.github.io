@@ -1,10 +1,10 @@
 {
-    "version": "0.3.4",
+    "version": "0.3.5",
     "platforms":{
         "windows-x86_64": {
-            "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.3.4_x64-setup.exe",
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdDk2RCtaWlNqc0d5K1RUdFQyN0gxekZmbk1mblczMlp1SGRrem81OG5xWCs3QnF0dW84SGMxSWdBWW9LTThYbnRTR3NxbnEvUFp5SzMwUC9YQjU2UndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ3MDUxOTA1CWZpbGU6Q2xpZW50QWxsSW5PbmVfMC4zLjRfeDY0LXNldHVwLmV4ZQpvRmN5ZE5WVGFDZXc4RUtoN3dwQThObjh1dFdvU0FiL2FZZXkwMnZkNml4TzZleVdzZnZXODhDQ3JlUmZSWkE3UmxjYklWTHdKR2tTY2xPTC82Z0lEQT09Cg=="
+            "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.3.5_x64-setup.exe",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdDBTL3U0Tkt4QXhhc1pDczJpdnlKbElTNTc5VUo4N3ZLMjk5T3BMYjJTMEkrOWNTYUNjMFA0cm1wa3IrcWJrb0J5M2htNWtsVzN4QlBMelNtVEMzL1EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ3MTAxMDY0CWZpbGU6Q2xpZW50QWxsSW5PbmVfMC4zLjVfeDY0LXNldHVwLmV4ZQpWc1ZMOTZHNTZBWFo2N1lHOHZDRVFjcHZHalVDYWc3bHFRS3RuWjBWYWloS2Q3b2ROVFlhMVBFK2hyY3ZOWXNudEIrTjBQOXJaVklpSk5Xd2dBblJCZz09Cg=="
         }
     },
-    "notes": "调整域名默认分页过小的问题，调整使用LOGO宏时反馈的异常提示，有需要的可以更新"
+    "notes": "内置站点完全开放，今天将陆续上传80个左右的站点。ip拉黑变为物理拉黑，你可以使用表达式拦截指定区间的ip，具体表达式请关注频道"
 }
