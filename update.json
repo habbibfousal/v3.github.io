@@ -1,10 +1,10 @@
 {
-    "version": "0.3.7",
+    "version": "0.3.8",
     "platforms":{
         "windows-x86_64": {
-            "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.3.7_x64-setup.exe",
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdHpUUHNNcjF3eENSeWR5SkR5T1NYWmpvOXBTaEtucWZaZVZ5Qys0a0pVc3lXejQ2WnlZUDVXdnJVWlZmcHZSN0ZlOXpCUWZ5cnloOWNJNVd1aTNjOFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ3NDU3Mjc3CWZpbGU6Q2xpZW50QWxsSW5PbmVfMC4zLjdfeDY0LXNldHVwLmV4ZQpJZnlTUTA1a29VenpZVHAyVjUvZng3bDVyQ25HNEtYc2JIVzYyY2RIQ1hhOXFWRXhFdFBwcjFQeUxUdGE5YmsrUnlOMDR0Y3A1OGJycktMVkpRSzZEQT09Cg=="
+            "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.3.8_x64-setup.exe",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdDdvQ0c0citpdUxNTGJRUzNCNVl5TXhEVUVzNXJuY1dCTFZCSndIdW15Yk10dk1SdGNZVEtJcXBNbTNmTVQ4ZVErMGg1YUJuZ0R1RWNaaVFrUU5Kd0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ3NDg2MzU5CWZpbGU6Q2xpZW50QWxsSW5PbmVfMC4zLjhfeDY0LXNldHVwLmV4ZQp6NVFxRmZEa29hSUJmZTlMRGVUMTFOWllGcTQzTmwvTTRpZGRMWjFDaE9ZbWRDT2F4UTVrOVJxMmpjcDRUQUVRQS8reGRMMjJvR0t2VHZialc1WEVBQT09Cg=="
         }
     },
-    "notes": "支持组件自定义，你现在可以保存页面中的元素为自定义的组件了，然后在任何地方调用它们"
+    "notes": "！！！！重要更新！！！！，解决大量在线会导致服务器卡死的情况！！！请务必同步到最新版本"
 }
