@@ -1,10 +1,10 @@
 {
-    "version": "0.3.8",
+    "version": "0.3.9",
     "platforms":{
         "windows-x86_64": {
-            "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.3.8_x64-setup.exe",
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdDdvQ0c0citpdUxNTGJRUzNCNVl5TXhEVUVzNXJuY1dCTFZCSndIdW15Yk10dk1SdGNZVEtJcXBNbTNmTVQ4ZVErMGg1YUJuZ0R1RWNaaVFrUU5Kd0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ3NDg2MzU5CWZpbGU6Q2xpZW50QWxsSW5PbmVfMC4zLjhfeDY0LXNldHVwLmV4ZQp6NVFxRmZEa29hSUJmZTlMRGVUMTFOWllGcTQzTmwvTTRpZGRMWjFDaE9ZbWRDT2F4UTVrOVJxMmpjcDRUQUVRQS8reGRMMjJvR0t2VHZialc1WEVBQT09Cg=="
+            "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.3.9_x64-setup.exe",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdDFJQUpOV3NmeTRhc1h6alFoYkloNWpwOHZHN1RwYnAvRzRpZlFaUSt4N0IrU2FQSGFQc1Awa1dWSWZoVkh1TkRxL1NaWGFjQkdPbFk4RlFSQmJUQ3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ4MDgwNDc0CWZpbGU6Q2xpZW50QWxsSW5PbmVfMC4zLjlfeDY0LXNldHVwLmV4ZQplQ1hjd0xYTzg5bFd1MnI2WnBIODFjdVdOVXRSK3llWWE4dHhzalBmZ2Rxa3RCSmJKS0Q0OG9sS3RHRDZBc0Flcng1SzAyRjRvM1dKVVJKY3cwMW5BZz09Cg=="
         }
     },
-    "notes": "！！！！重要更新！！！！，解决大量在线会导致服务器卡死的情况！！！请务必同步到最新版本"
+    "notes": "ACT 宏可以传递参数了，现在，你可以更加灵活的添加自定义指令控制页面交互"
 }
