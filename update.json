@@ -1,10 +1,10 @@
 {
-    "version": "0.3.9",
+    "version": "0.4.0",
     "platforms":{
         "windows-x86_64": {
-            "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.3.9_x64-setup.exe",
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdDFJQUpOV3NmeTRhc1h6alFoYkloNWpwOHZHN1RwYnAvRzRpZlFaUSt4N0IrU2FQSGFQc1Awa1dWSWZoVkh1TkRxL1NaWGFjQkdPbFk4RlFSQmJUQ3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ4MDgwNDc0CWZpbGU6Q2xpZW50QWxsSW5PbmVfMC4zLjlfeDY0LXNldHVwLmV4ZQplQ1hjd0xYTzg5bFd1MnI2WnBIODFjdVdOVXRSK3llWWE4dHhzalBmZ2Rxa3RCSmJKS0Q0OG9sS3RHRDZBc0Flcng1SzAyRjRvM1dKVVJKY3cwMW5BZz09Cg=="
+            "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.4.0_x64-setup.exe",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdDdSdGNmbFhVNmVpRi8vaFNVNUFtQStHN01rcWpIQjlnUnpSZzMwbExSUzNxSTE1RCtacXZpSVo5Sm5jaHRBM0NZSlh3UWRBTDVsUFI3M0p1NzhzelFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ4OTU4MDk4CWZpbGU6Q2xpZW50QWxsSW5PbmVfMC40LjBfeDY0LXNldHVwLmV4ZQpTWWpHbHU3bzFFaG0vdEFqNXI1bXFLQ0tQTWJTbzdnMHE4YWlHSXUvd3ZEWVpDOStadnZtbEQ5RjgxZWVSdWlWMDMrTExjWHBWdFU1Y2g3YVMrb21EQT09Cg=="
         }
     },
-    "notes": "ACT 宏可以传递参数了，现在，你可以更加灵活的添加自定义指令控制页面交互"
+    "notes": "新增文件上传控件"
 }
