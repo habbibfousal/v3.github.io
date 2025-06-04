@@ -1,10 +1,10 @@
 {
-    "version": "0.4.0",
+    "version": "0.4.1",
     "platforms":{
         "windows-x86_64": {
-            "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.4.0_x64-setup.exe",
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdDdSdGNmbFhVNmVpRi8vaFNVNUFtQStHN01rcWpIQjlnUnpSZzMwbExSUzNxSTE1RCtacXZpSVo5Sm5jaHRBM0NZSlh3UWRBTDVsUFI3M0p1NzhzelFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ4OTU4MDk4CWZpbGU6Q2xpZW50QWxsSW5PbmVfMC40LjBfeDY0LXNldHVwLmV4ZQpTWWpHbHU3bzFFaG0vdEFqNXI1bXFLQ0tQTWJTbzdnMHE4YWlHSXUvd3ZEWVpDOStadnZtbEQ5RjgxZWVSdWlWMDMrTExjWHBWdFU1Y2g3YVMrb21EQT09Cg=="
+            "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.4.1_x64-setup.exe",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdHlIRk5PcXJ2Qk90R3B1TmViZjVVTmlyMUZFRENsMlRYekdYYnR1Ni9qRUpFN3N0TUI2SVdURDMxRzZsdVhETG90cVNrTDBaelI2RUhIa0JvWWhwVUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ5MDQyNDkyCWZpbGU6Q2xpZW50QWxsSW5PbmVfMC40LjFfeDY0LXNldHVwLmV4ZQovYVNRN3BGQjgzajd3V0k0dFF0QkhsMlVUdWZmOVZBd3NsYVBYdVlBT2pvajM4K04wVUxIdlBQbWlTZHVSL0dmVk84SW5zMnBEdVFZdjVFOTUxWHdBQT09Cg=="
         }
     },
-    "notes": "新增文件上传控件"
+    "notes": "新增和前台聊天的能力，在实时面板的内置操作里面"
 }
