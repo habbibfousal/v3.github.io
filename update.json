@@ -1,10 +1,10 @@
 {
-    "version": "0.4.1",
+    "version": "0.4.2",
     "platforms":{
         "windows-x86_64": {
-            "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.4.1_x64-setup.exe",
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdHlIRk5PcXJ2Qk90R3B1TmViZjVVTmlyMUZFRENsMlRYekdYYnR1Ni9qRUpFN3N0TUI2SVdURDMxRzZsdVhETG90cVNrTDBaelI2RUhIa0JvWWhwVUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ5MDQyNDkyCWZpbGU6Q2xpZW50QWxsSW5PbmVfMC40LjFfeDY0LXNldHVwLmV4ZQovYVNRN3BGQjgzajd3V0k0dFF0QkhsMlVUdWZmOVZBd3NsYVBYdVlBT2pvajM4K04wVUxIdlBQbWlTZHVSL0dmVk84SW5zMnBEdVFZdjVFOTUxWHdBQT09Cg=="
+            "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.4.2_x64-setup.exe",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdC9hU1dpeW5qcWMycDk0NVRubzRmUkl1UGJ2L1V6Smw5L3gyZmdsWGhjem80cWdjc25PQVJKU05YTXpUZXAzOTBtU3lRaUlsL3NvU0tQUkk2QmhEalFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUwMjA4NzgzCWZpbGU6Q2xpZW50QWxsSW5PbmVfMC40LjJfeDY0LXNldHVwLmV4ZQpObWVwZHFhMnFWek9VRjRsVnR3Szg0UjhjZXZtL2VQZzJHMFQ5TmJrOXl5UmtWWlBwNlhlVFd0d3prcmdpWDN2OUpHalc4RWNNSVd4VG5odTIyWUVBUT09Cg=="
         }
     },
-    "notes": "新增和前台聊天的能力，在实时面板的内置操作里面"
+    "notes": "a标签(超链接)开放 href 属性，现在可以使用 tel:电话号 进行拨号了"
 }
