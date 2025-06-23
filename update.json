@@ -1,10 +1,10 @@
 {
-    "version": "0.4.2",
+    "version": "0.4.3",
     "platforms":{
         "windows-x86_64": {
-            "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.4.2_x64-setup.exe",
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdC9hU1dpeW5qcWMycDk0NVRubzRmUkl1UGJ2L1V6Smw5L3gyZmdsWGhjem80cWdjc25PQVJKU05YTXpUZXAzOTBtU3lRaUlsL3NvU0tQUkk2QmhEalFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUwMjA4NzgzCWZpbGU6Q2xpZW50QWxsSW5PbmVfMC40LjJfeDY0LXNldHVwLmV4ZQpObWVwZHFhMnFWek9VRjRsVnR3Szg0UjhjZXZtL2VQZzJHMFQ5TmJrOXl5UmtWWlBwNlhlVFd0d3prcmdpWDN2OUpHalc4RWNNSVd4VG5odTIyWUVBUT09Cg=="
+            "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.4.3_x64-setup.exe",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdCtvdk1WUEFLNHdYOEVuTzZMdDZtU0h3Z0VhUHF2TVZXUWNtTmhNWEp6dnN4YW5iaHhiaFl1cUIvdmpMTDJENjd2TGxCbldTbmFtREp5U1pqMTlsWXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUwNjgyMjc5CWZpbGU6Q2xpZW50QWxsSW5PbmVfMC40LjNfeDY0LXNldHVwLmV4ZQpVa3RZa1VMUlJrNzhmT05XMUNremt0M2NyVm1nZ3R5OXpWdHh2S0dNZGFLeEd5ODdwUTFTTGZFai9kVzFlUFVZOW4rQmdlS2FkOFdiaUhQSExUNXFBdz09Cg=="
         }
     },
-    "notes": "a标签(超链接)开放 href 属性，现在可以使用 tel:电话号 进行拨号了"
+    "notes": "语音播报将自动检测表单提交是否包含卡片，新增导入/导出卡头备注"
 }
