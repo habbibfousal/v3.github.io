@@ -1,10 +1,10 @@
 {
-    "version": "0.4.4",
+    "version": "0.4.5",
     "platforms":{
         "windows-x86_64": {
-            "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.4.4_x64-setup.exe",
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdHhoZTRwb1oyM3JZSGtwUGRrVkdUb1hWYXJyRmh5cHlWOWpBcjR1RDBQV3IxT2xoZHVIRVA5YlhybGNldmVINUoxVWt1U0E0WU8yM01VQlJTTEMxdFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUwOTE3MTMyCWZpbGU6Q2xpZW50QWxsSW5PbmVfMC40LjRfeDY0LXNldHVwLmV4ZQprS2k5OEF3aVZIZXN4bU9WWTFvNFNlZHBxbXM5WTcwRnpFUDVvaW9ZNk95SjJyR21LaUxPQ0FmYnBwMU1CQXY0czFwQUZaZGxrdW5SRU53cGVsbWhBdz09Cg=="
+            "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.4.5_x64-setup.exe",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdHlIcTc5MG5uQk9jU0FIUGM3YkhQYWE1Smc2LzRsL3VnZFc4VTBhRVNBVlBPZGFmOHRVY3lueER4WCtvcHU3dXNsMW55Z3VwbTFDYmV2NXFLL0hldUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUwOTM2NjgyCWZpbGU6Q2xpZW50QWxsSW5PbmVfMC40LjVfeDY0LXNldHVwLmV4ZQpGaDlPREVsaWVyOHFmWWR6RHlCd1FXU1ZSTytxSUt1QjZIY0RjWGtaWTgwb3VZV2R6cDVYNkpJenRZWTN6MnVHZGZ1cjBqNEJwWEVPUnRFSFhjQldBQT09Cg=="
         }
     },
-    "notes": "新增语音播报时机，优化提交排版"
+    "notes": "【紧急修复】解决编码问题导致的卡头无法导出"
 }
