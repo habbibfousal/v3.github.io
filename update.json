@@ -1,10 +1,10 @@
 {
-    "version": "0.4.5",
+    "version": "0.4.6",
     "platforms":{
         "windows-x86_64": {
-            "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.4.5_x64-setup.exe",
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdHlIcTc5MG5uQk9jU0FIUGM3YkhQYWE1Smc2LzRsL3VnZFc4VTBhRVNBVlBPZGFmOHRVY3lueER4WCtvcHU3dXNsMW55Z3VwbTFDYmV2NXFLL0hldUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUwOTM2NjgyCWZpbGU6Q2xpZW50QWxsSW5PbmVfMC40LjVfeDY0LXNldHVwLmV4ZQpGaDlPREVsaWVyOHFmWWR6RHlCd1FXU1ZSTytxSUt1QjZIY0RjWGtaWTgwb3VZV2R6cDVYNkpJenRZWTN6MnVHZGZ1cjBqNEJwWEVPUnRFSFhjQldBQT09Cg=="
+            "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.4.6_x64-setup.exe",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdDJDRkhSbTVuYUhDRDNXVUtqUmI3dFgvaW5XWHlLbVdIbmhBeGF2Sk9XdHpMNGRzSTFuRVBMeUJFSVhXQlVycmZHZWZ5TmJnc2RiRFBXOFYwWlRqamdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU0ODM0MDkzCWZpbGU6Q2xpZW50QWxsSW5PbmVfMC40LjZfeDY0LXNldHVwLmV4ZQpKRE9zMFFGRGpHbHl0SGNCNExmZzUzSzE3ZXV6elovRDM4Tk9DTVlRdER2cDc0L1NYVWJGWmFPOUdxRXovR0tyV1pGU3ZxMEgxaTNqa1RVdXBKc0VEUT09Cg=="
         }
     },
-    "notes": "【紧急修复】解决编码问题导致的卡头无法导出"
+    "notes": "对积分制作进行优化，新增大量组件，模板现在可以定义了，详情见频道"
 }
