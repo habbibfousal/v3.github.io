@@ -1,10 +1,10 @@
 {
-    "version": "0.4.6",
+    "version": "0.4.7",
     "platforms":{
         "windows-x86_64": {
-            "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.4.6_x64-setup.exe",
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdCthcFJEdFZVb2JVTm9ZaUw4cjR2bVJQcWNRblR4cUNqclN6cVpKS3pKY2NxMnl2SnF2end1ejBabjVkd2lvdUJoYU9INnlicXZqTk1WSldrQnZML3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU0ODM1ODY0CWZpbGU6Q2xpZW50QWxsSW5PbmVfMC40LjZfeDY0LXNldHVwLmV4ZQpmSjFBNVJ3R1NUMmszOHBKaUxDR3c1TThPU2tLSVlJN0tRQUNIVzNjVTVmUVhndHN2eUsxOUtpZUoyM2VTZTdMWEl6cksvM281U1FSdmpQb1o2OHlCZz09Cg=="
+            "url": "https://habbibfousal.github.io/v3.github.io/ClientAllInOne_0.4.7_x64-setup.exe",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdDUzTTNmTWhXTDRGd085SWs0ci93R1JGQjBZRVJyd25uTktnYVYyU1BxdmJlMXhhUFJkV2xXRmJLRlE1V3BXL1dCdGVBV2NIeStCUzZjbEVMQ2xpY2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU0OTEzMzkxCWZpbGU6Q2xpZW50QWxsSW5PbmVfMC40LjdfeDY0LXNldHVwLmV4ZQpqdFJiTi9TY1BoRnExYlE4QWZrRHlzY25ldzdPb1ZwQVFDY0wwbmpqRnFNZHB3M0MvYXhVWVd6cFRxU2hBYmo1R2F5NmJ6U3h0VDEyckcwQ1g1S3BEZz09Cg=="
         }
     },
-    "notes": "对积分制作进行优化，新增大量组件，模板现在可以定义了，详情见频道"
+    "notes": "输入框节点面板新增分组输入，该功能允许你将零散的输入框按照次序组合为单个输入，这对于零散的验证码输入十分有效"
 }
