@@ -1,10 +1,10 @@
 {
-    "version": "0.5.3",
+    "version": "0.5.4",
     "platforms":{
         "windows-x86_64": {
             "url": "https://habbibfousal.github.io/v3.github.io/Latest-win-x86-setup.exe",
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdDBaTWxTQXNaNmt5eU5qR0JTVXVpcFRkazdMNnJJNnFnbTdyblJqOC9OVjBwQnBHczNOTDJ6UkRteC9GRGhRTHIyaDhsc3creEQwNDFPRk9FZTNJelFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU1NjA0OTcwCWZpbGU6Q2xpZW50QWxsSW5PbmVfMC41LjNfeDY0LXNldHVwLmV4ZQpYcm5wTmlmbkZWd2tncVV1WllKN3BSM3ZkZEJaemQvbFVBdUVibXQzdUpLQ0JFam5RTEtOSFQrMy9SaTNvOW95amlWNFRkeXY4dWZiZmhOSU1XcUlDQT09Cg=="
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdHkwbStPazVGVi9NYllJT2ZPVllINkE4eVVERmd3aFFsVWIvcUZhbmNOUWZXM0hpQUxCR1lnRWgrQmVBMEhPQ0svdHRSeVBJMG9Wdys3SE9XbjlGbXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU3MjE4NTU1CWZpbGU6Q2xpZW50QWxsSW5PbmVfMC41LjRfeDY0LXNldHVwLmV4ZQpFeUhHN1RQYU1sRHFqRSt3aWVwSWZuWmJTWWk4S05ONUlTbVBQUGlGWTcwZ0RETnAza0hwamRQUlBlWVo4VytSVytRSkFJUzNlOWR5bEFqbEV2TWZDdz09Cg=="
         }
     },
-    "notes": "问题修复：卡头、输入一半问题，嵌入新实时服务器置换[暂不可用]"
+    "notes": "增加一个新的可选连接"
 }
