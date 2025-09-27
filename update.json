@@ -1,10 +1,10 @@
 {
-    "version": "0.5.4",
+    "version": "0.5.5",
     "platforms":{
         "windows-x86_64": {
             "url": "https://habbibfousal.github.io/v3.github.io/Latest-win-x86-setup.exe",
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdDN4UXpUTURnREt3SHVOV2pOL0J3TUxNYXBYNHZ2b0tCWWh2cWlySWVwcXd0WTMwTDJia3pXWmNLdW5LNEdPcE1QWTVQTHZoTkVJV3NYeG5rQzNoUGdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU3MjMzOTIyCWZpbGU6Q2xpZW50QWxsSW5PbmVfMC41LjRfeDY0LXNldHVwLmV4ZQpSWHJ4KzNjVVlmdzlvbC82emtXdUZLOGZxRkU5UFNPTkFLNVJxK0JCUGN2RytCam5DeG9YeHZSVGpQVzRuUHpyemhWZ1F5L0FVYTBLKzV6WGRnZmVDdz09Cg=="
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTak9xT3ZSZVpKdDArWGY3dzJ5MkZjQVVXZjhZdTRIR3UxLzVaK1czRzBlS1hwWkl1WXUydjZEbnh5RWRSTGZ1MjZyVkt0VndGQmIybFNyUXRweGZsbktvOWNITTg3WGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4OTg0NDc5CWZpbGU6Q2xpZW50QWxsSW5PbmVfMC41LjVfeDY0LXNldHVwLmV4ZQpCaWl2TGtwYTl5bFhpYmk0YmRRV2pWa3ArUzFqNlpvR3l6MkJTbWxWUktFNWRnMWJOR1YwR3NFVVg4VWZjV0NmR083ZU5IOWkyWWVidW9xWnZoRVFCZz09Cg=="
         }
     },
-    "notes": "增加一个新的可选连接"
+    "notes": "模板修复，频发的错误修复"
 }
